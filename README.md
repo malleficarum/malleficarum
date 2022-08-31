@@ -5,7 +5,7 @@
 
 <h3 align="left">— 📮 <i>Redes Sociais:</i></h3>
 <p align="left">
-<a href="https://twitter.com/capivarapunk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="capivarapunk" height="30" width="40" /></a>
+<a href="https://twitter.com/capivarapunk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="capivarapunk" height="20" width="30" /></a>
 <a href="https://linkedin.com/in/laisaranda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laisaranda" height="30" width="40" /></a>
 <a href="https://discord.gg/CapivaraPunk#7920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CapivaraPunk#7920" height="30" width="40" /></a>
 </p>
