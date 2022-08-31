@@ -1,5 +1,5 @@
-<h1 align="center">Oi, meu nome é Laís!</h1>
-<h3 align="center">Estou graduando em Ciências da Computação (FMU), mas já sou formada em Direito e com experiência na área pública através de estágio na Defensoria Pública do Estado de SP, onde lidei diretamente com organização de processos, atendimento ao público e construção de peças jurídicas. Aprendendo C, Python 3.9 e Oracle SQL, mas já andei pelas terras de HTML5 e CSS também..</h3>
+<h1 align="left"><i>Oi, meu nome é Laís!</i></h1>
+<h3 align="left">Estou graduando em Ciências da Computação (FMU), mas já sou formada em Direito e com experiência na área pública através de estágio na Defensoria Pública do Estado de SP, onde lidei diretamente com organização de processos, atendimento ao público e construção de peças jurídicas. Aprendendo C, Python 3.9 e Oracle SQL, mas já andei pelas terras de HTML5 e CSS também..</h3>
 
 <p align="left"> <a href="https://twitter.com/capivarapunk" target="blank"><img src="https://img.shields.io/twitter/follow/capivarapunk?logo=twitter&style=for-the-badge" alt="capivarapunk" /></a> </p>
 
